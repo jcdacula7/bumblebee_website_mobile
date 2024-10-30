@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+
+index_footer.html
+index_header.html
+index_more_features.html
